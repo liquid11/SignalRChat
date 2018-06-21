@@ -29,3 +29,4 @@
 /home/opendev/Documents/projects/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.Views.pdb
 /home/opendev/Documents/projects/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.dll
 /home/opendev/Documents/projects/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.pdb
+/home/opendev/Documents/projects/SignalRChat/obj/Debug/netcoreapp2.1/SignalRChat.csproj.CopyComplete
